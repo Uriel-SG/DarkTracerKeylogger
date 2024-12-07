@@ -19,7 +19,7 @@ After creating the executable file (*.exe*) using *pyinstaller*, once you launch
 # How to use it
 - Download the tool:
 ```bash
-git clone https://Uriel-SG/DarkTracer/Keylogger
+git clone https://github.com/Uriel-SG/DarkTracerKeylogger.git
 ```
 - Edit the python code inserting your Discord Webhook:
 ```python
