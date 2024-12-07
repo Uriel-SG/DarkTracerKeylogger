@@ -15,7 +15,7 @@ This tool is released exclusively for:
 ***Like all security testing tools, Dark Tracer must only be used on systems and networks for which you have explicit written authorization. Improper use of this tool may violate local and international laws.***
 
 # How it works
-After creating the executable file (*.exe*) using *pyinstaller*, once you launch the file on a Windows machine, **the keylogger will work hidden, sending everything is typed with the keyboard to your Discord Webhook.**
+After creating the executable file (*.exe*) using *pyinstaller*, once you launch the file on a Windows machine, **the keylogger will work hidden, sending everything is typed with the keyboard to your** ***Discord Webhook.***
 
 ![image](https://github.com/user-attachments/assets/c972f6c7-9ed0-4a94-b539-3b2be94c019b)
 
