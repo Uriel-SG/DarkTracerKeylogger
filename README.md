@@ -21,6 +21,10 @@ After creating the executable file (*.exe*) using *pyinstaller*, once you launch
 
 
 # How to use it
+- For the tool to function correctly it is necessary to install the *pynput* module:
+```bash
+pip install pynput
+```
 - Download the tool:
 ```bash
 git clone https://github.com/Uriel-SG/DarkTracerKeylogger.git
@@ -41,7 +45,7 @@ pyinstaller --onefile --noconsole --hidden-import=pynput YOUR-FILE.py
 ```
 (if you want you can add an icon adding *"--icon YOUR_ICO.ico"*)
 
-- In the "dist" folder created you'll find the *.exe* file ready: *just start it*.
+- In the "dist" folder created you'll find the *.exe* file ready: ***just start it***.
 
 # 🧑‍💻 How to stop the process 
 Simply open Windows Task Manager, locate the process, and end the task.
