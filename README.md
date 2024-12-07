@@ -16,6 +16,10 @@ This tool is released exclusively for:
 
 # How it works
 After creating the executable file (*.exe*) using *pyinstaller*, once you launch the file on a Windows machine, **the keylogger will work hidden, sending everything is typed with the keyboard to your Discord Webhook.**
+
+![image](https://github.com/user-attachments/assets/c972f6c7-9ed0-4a94-b539-3b2be94c019b)
+
+
 # How to use it
 - Download the tool:
 ```bash
